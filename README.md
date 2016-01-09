@@ -1,2 +1,3 @@
 # ieee-pes-amps.github.io
-ieee pes amps organization page
+
+source files for compiling the ieee pes amps github webpage
