@@ -1,7 +1,11 @@
-<footer class="site-footer">
+<div id="footer_wrap" class="outer">
+  <footer class="inner">
 
-Admin: <a href="https://github.com/{{ site.data.config.admin_github_username }}">
-  <span class="username">{{ site.data.config.admin_github_username }}</span>
-</a>
+  <h3>Github Organization Administrator:</h3>
+  <p> <a href="https://github.com/{{site.data.config.admin_github_username}}">{{site.data.config.admin_name}}</a> 
+    - {{site.data.config.admin_email}} <br/>
+  
+  </p>
 
-</footer>
+  </footer>
+</div>
