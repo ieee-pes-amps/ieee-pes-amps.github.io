@@ -13,7 +13,7 @@ AMPS encourages all members of the community to engage and contribute to these o
 
 ### Repository Requests
 
-Requests for new official AMPS repositories can be requested by the chairperson of any AMPS subcommittee, working group, or task force.  To request a new repository, contact the AMPS github administrator, [{{site.data.config.admin_name}}](https://github.com/{{site.data.config.admin_github_username}}), with the following information,
+Requests for new AMPS repositories can be made by the chairperson of any AMPS subcommittee, working group, or task force.  To request a new repository, contact the AMPS github administrator, [{{site.data.config.admin_name}}](https://github.com/{{site.data.config.admin_github_username}}), with the following information,
 
 * A brief description of the what the repository will be used for
 * The preferred name of the repository
